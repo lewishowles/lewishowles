@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Lewis 👋
 
-<!--
-**lewishowles/lewishowles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate, versatile UI/UX Developer and Designer, with over 15 years experience spanning UI Design, Front-end Development, Web Design, Graphic Design, Accessibility and, historically, Backend Development.
 
-Here are some ideas to get you started:
+I’m enthusiastic about improving the user’s experience, the developer’s experience, and making websites and apps that are not only beautiful and powerful, but also easy to use and accessible. My passion for inclusive design fuels my drive to craft delightful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio projects and [website](https://howles.dev).
+- 💬 Ask me about design, usability and accessibility, or [see my suggestions for others on Reddit](https://www.reddit.com/user/lhowles/)
+- ⚡ Fun fact: I love to make work fun, such as adding film references to designs, code, and tests!
+
+### Skills include
+
+- UI design
+- Front-end development
+- Web design
+- Accessibility
+- Design systems
+- Testing
+- Tools
+- Planning
+- Communication
+- Graphic design
+- & more!
