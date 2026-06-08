@@ -1,4 +1,4 @@
-# Hi, I'm Lewis 👋
+# Hi, I'm Lewis
 
 I'm a designer and front-end developer building accessible, polished web apps, component systems, and developer tools.
 
