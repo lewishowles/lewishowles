@@ -1,23 +1,19 @@
-## Hi, I'm Lewis 👋
+# Hi, I'm Lewis 👋
 
-I’m a passionate, versatile UI/UX Developer and Designer, with over 15 years experience spanning UI Design, Front-end Development, Web Design, Graphic Design, Accessibility and, historically, Backend Development.
+I'm a designer and front-end developer building accessible, polished web apps, component systems, and developer tools.
 
-I’m enthusiastic about improving the user’s experience, the developer’s experience, and making websites and apps that are not only beautiful and powerful, but also easy to use and accessible. My passion for inclusive design fuels my drive to craft delightful user experiences.
+I bring product design, front-end engineering, accessibility, design systems, and developer experience together so products are easier to use, build, and maintain.
 
-- 🔭 I’m currently working on my portfolio projects and [website](https://howles.dev).
-- 💬 Ask me about design, usability and accessibility, or [see my suggestions for others on Reddit](https://www.reddit.com/user/lhowles/)
-- ⚡ Fun fact: I love to make work fun, such as adding film references to designs, code, and tests!
+- I’m currently refining my public projects, writing, and [website](https://howles.dev).
+- Ask me about design systems, accessibility, front-end development, and developer experience — or [see my suggestions for others on Reddit](https://www.reddit.com/user/lhowles/).
+- Fun fact: I like making work feel more joyful, including the occasional film reference in designs, code, and tests.
 
-### Skills include
+## What I work on
 
-- UI design
-- Front-end development
-- Web design
-- Accessibility
-- Design systems
-- Testing
-- Tools
-- Planning
-- Communication
-- Graphic design
-- & more!
+- Product and interface design
+- Accessible front-end development
+- Design and accessibility reviews
+- Design systems and reusable components
+- Developer tools and workflow automation
+- Testing and maintainability
+- Product planning and technical communication
