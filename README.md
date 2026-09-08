@@ -1,19 +1,17 @@
-# Hi, I'm Lewis
+# Hi, I'm Lewis 👋
 
-I'm a designer and front-end developer building accessible, polished web apps, component systems, and developer tools.
+I'm a designer and front-end developer. I build accessible, polished web apps and developer tools from scratch, backed by my own component system, design system, and workflow tooling.
 
-I bring product design, front-end engineering, accessibility, design systems, and developer experience together so products are easier to use, build, and maintain.
+What I work on:
 
-- I’m currently refining my public projects, writing, and [website](https://howles.dev).
-- Ask me about design systems, accessibility, front-end development, and developer experience — or [see my suggestions for others on Reddit](https://www.reddit.com/user/lhowles/).
-- Fun fact: I like making work feel more joyful, including the occasional film reference in designs, code, and tests.
+- **Product and interface design:** turning rough ideas into clear, usable interfaces
+- **Accessible front-end development:** WCAG AA as a baseline, AAA where it's feasible
+- **Design systems and reusable components:** the shared foundation the rest of a product builds on
+- **Developer tools and workflow automation:** taking friction out of the day-to-day, with outcomes you can inspect
+- **Product planning and technical communication:** scoping the work and explaining the trade-offs
+- **Testing and maintainability:** code that stays easy to change
+- **Design and accessibility reviews:** practical audits with fixes a team can act on
 
-## What I work on
+I care about the user experience and the developer experience in equal measure, and I like moving between the two. Most of the tooling pinned below began as a way to make my own work easier.
 
-- Product and interface design
-- Accessible front-end development
-- Design and accessibility reviews
-- Design systems and reusable components
-- Developer tools and workflow automation
-- Testing and maintainability
-- Product planning and technical communication
+Fun fact: I like making work feel more joyful, including the occasional film reference in designs, code, and tests.
